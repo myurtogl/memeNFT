@@ -1,0 +1,24 @@
+{
+  "name": "Memes #3",
+  "description": "Memes NFT Collection for Cadena NFT 101 Course",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYTNc5HHjDrbvyjBZnTZMCbpk733FeDGZUfFodxEHiQ8y/3.png",
+  "dna": "a4f8c669fdd36bcb82ce1cfb00dc6f919079b08f",
+  "edition": 3,
+  "date": 1683936655977,
+  "artist": "mey",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "Memes",
+      "value": "electricityhack"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "memelogo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
